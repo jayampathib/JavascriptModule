@@ -8,3 +8,6 @@ Then add it to repository
 
 npm install --save bootstrap
 npm install --save jquery
+
+Add es5 IIFE module
+here dependecy management is difficult. file load order manage the dependency. app file should be load at last

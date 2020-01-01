@@ -92,6 +92,10 @@
   <ItemGroup>
     <Content Include="css\united.bootstrap.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="js\iife\app.js" />
+    <Content Include="js\iife\game.js" />
+    <Content Include="js\iife\player.js" />
+    <Content Include="js\iife\scoreboard.js" />
     <Content Include="node_modules\bootstrap\dist\css\bootstrap-grid.css" />
     <Content Include="node_modules\bootstrap\dist\css\bootstrap-grid.min.css" />
     <Content Include="node_modules\bootstrap\dist\css\bootstrap-reboot.css" />
