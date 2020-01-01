@@ -4,3 +4,7 @@ Then add it to repository
 	select path "D:\GitRepo\JavaScript\"
 	then give name "JavascriptModule"
 	then add visualstudio ignore file
+
+
+npm install --save bootstrap
+npm install --save jquery
