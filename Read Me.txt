@@ -1,0 +1,6 @@
+
+Create MVC Empty Project "JavascriptModule" using visual studio inside "D:\GitRepo\JavaScript\"
+Then add it to repository 
+	select path "D:\GitRepo\JavaScript\"
+	then give name "JavascriptModule"
+	then add visualstudio ignore file
