@@ -11,3 +11,6 @@ npm install --save jquery
 
 Add es5 IIFE module
 here dependecy management is difficult. file load order manage the dependency. app file should be load at last
+
+0004 Singleton variable Initiate with Revealing Module Pattern 
+using Immediately-Invoked Function Expressions singleton objects are created. then they are assign to global variable
