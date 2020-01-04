@@ -96,6 +96,10 @@
     <Content Include="js\iife\game.js" />
     <Content Include="js\iife\player.js" />
     <Content Include="js\iife\scoreboard.js" />
+    <Content Include="js\RmpConstructor\app.js" />
+    <Content Include="js\RmpConstructor\game.js" />
+    <Content Include="js\RmpConstructor\player.js" />
+    <Content Include="js\RmpConstructor\scoreboard.js" />
     <Content Include="js\RmpSingleton\app.js" />
     <Content Include="js\RmpSingleton\game.js" />
     <Content Include="js\RmpSingleton\player.js" />
@@ -394,6 +398,7 @@
     <None Include="packages.config" />
     <Content Include="Views\ES5\IIFE.cshtml" />
     <Content Include="Views\ES5\RevealingModulePatternSingleton.cshtml" />
+    <Content Include="Views\ES5\RevealingModulePatternConstructor.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

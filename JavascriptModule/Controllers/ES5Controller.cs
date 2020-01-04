@@ -17,5 +17,9 @@ namespace JavascriptModule.Controllers
         {
             return View();
         }
+        public ActionResult RevealingModulePatternConstructor()
+        {
+            return View();
+        }
     }
 }

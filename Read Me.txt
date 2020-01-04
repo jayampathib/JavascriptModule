@@ -14,3 +14,6 @@ here dependecy management is difficult. file load order manage the dependency. a
 
 0004 Singleton variable Initiate with Revealing Module Pattern 
 using Immediately-Invoked Function Expressions singleton objects are created. then they are assign to global variable
+
+0005 Constructor function with Revealing Module Pattern 
+Variables are capitalize and initalize only when call. Therefore, no singleton object
