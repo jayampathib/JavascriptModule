@@ -30,6 +30,6 @@ var Scoreboard = function() {
     return {
         addResult: addResult,
         updateScoreboard: updateScoreboard
-    }
+    };
     
 };
